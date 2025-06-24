@@ -127,7 +127,7 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" width="52%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&layout=compact" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&layout=compact" width="44%" />
 </p>
 
 <p align="center">
