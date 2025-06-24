@@ -34,6 +34,18 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 </p>
 
 
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://facebook.com/your-username">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="60" />
+  </a>
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="60" />
+  </a>
+  <a href="https://twitter.com/your-username">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="60" />
+  </a>
+</p>
 
 
 
