@@ -47,18 +47,14 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
   </a>
 </p>
 
-## GitHub Stats
-<p align="center">
+<!-- ## GitHub Stats -->
+<!-- <p align="center">
     <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
     <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
     <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
     <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</p>
-
-
-
-
-
-
-
-
+</p> -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jah&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jah&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jah&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
