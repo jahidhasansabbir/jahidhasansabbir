@@ -55,6 +55,7 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
     <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </p> -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-![](https://nirzak-streak-stats.vercel.app/?user=jahidhasansabbir&theme=vue-dark&hide_border=false)
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://nirzak-streak-stats.vercel.app/?user=jahidhasansabbir&theme=vue-dark&hide_border=false) -->
+![](https://raw.githubusercontent.com/jahidhasansabbir/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jahidhasansabbir/github-stats/master/generated/overview.svg#gh-light-mode-only)
