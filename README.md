@@ -131,5 +131,5 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jahidhasansabbir&theme=vue-dark&hide_border=false" width="80%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jahidhasansabbir&theme=vue-dark&hide_border=false" width="60%" />
 </p>
