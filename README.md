@@ -53,7 +53,7 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <p align="center"> 
-   <img src="https://nirzak-streak-stats.vercel.app/?user=jahidhasansabbir&theme=vue-dark&hide_border=false" alt="GitHub Streak" width="48%"/>
+   <img src="https://nirzak-streak-stats.vercel.app/?user=jahidhasansabbir&theme=vue-dark&hide_border=false" alt="GitHub Streak" width="48%" height="200"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&layout=compact" alt="Most Used Languages" width="48%"/>
 </p>
