@@ -47,6 +47,12 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
   </a>
 </p>
 
+<div align="center">
+    <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+    <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</div>
 
 
 
