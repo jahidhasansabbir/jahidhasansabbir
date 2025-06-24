@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Explore+my+projects+and+tech+journey.;Building+with+React%2C+Node.js%2C+MongoDB." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 <h1 align="center">Hi, I'm Jahid Hasan Sabbir</h1>
 <h3 align="center">Frontend Web Developer</h3>
+
 ---
 
 ## 👨‍💻 About Me
