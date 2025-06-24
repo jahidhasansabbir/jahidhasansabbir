@@ -40,7 +40,7 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="60" />
   </a>
   <a href="https://linkedin.com/in/your-username">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="60"/>
   </a>
   <a href="https://twitter.com/your-username">
     <img src="https://cdn.simpleicons.org/x" height="60" />
