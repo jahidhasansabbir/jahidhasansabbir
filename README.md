@@ -53,7 +53,7 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="Jahid's GitHub Stats" width="48%" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="Jahid's GitHub Stats" width="48%" height="250" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&layout=compact" alt="Most Used Languages" width="48%" height="200"/>
 </p>
