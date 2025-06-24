@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi, I'm Jahid Hasan Sabbir</h1>
-<h3 align="center">Frontend Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 ## 👨‍💻 About Me
 
 I'm a student of Electrical and Electronic Engineering with a strong passion for technology and software development. I love building modern web applications using **React.js**, **Node.js**, and **Tailwind CSS**. I’m always eager to learn and improve through hands-on experience and real-world projects.
-
+_
 
 ## 🚀 What I’m Working On
 
