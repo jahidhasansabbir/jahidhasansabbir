@@ -2,13 +2,10 @@
 <h1 align="center">Hi, I'm Jahid Hasan Sabbir</h1>
 <h3 align="center">Frontend Web Developer | MERN Stack Enthusiast</h3>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a student of Electrical and Electronic Engineering with a strong passion for technology and software development. I love building modern web applications using **React.js**, **Node.js**, and **Tailwind CSS**. I’m always eager to learn and improve through hands-on experience and real-world projects.
 
----
 
 ## 🚀 What I’m Working On
 
@@ -16,31 +13,25 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 - Exploring tools like **TanStack Query**, **Axios**, and other React utilities
 - Recently deployed: [**Share Bitez**](https://share-bitez.web.app/) – A full-stack food sharing platform
 
----
 
 ## 🧰 Skills & Technologies
-
-### Frontend
 <p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png" alt="HTML" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png" alt="CSS" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png" alt="Bootstrap" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png" alt="Tailwind CSS" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png" alt="JavaScript" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png" alt="React.js" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png" alt="React Router" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png" alt="HTML" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png" alt="CSS" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png" alt="Bootstrap" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png" alt="Tailwind CSS" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png" alt="JavaScript" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png" alt="React.js" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png" alt="React Router" />&nbsp;
+</p>
+<p align="center">
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png" alt="Node.js" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png" alt="Express.js" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png" alt="MongoDB" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png" alt="Firebase" />&nbsp;
+  <img height="60" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png" alt="JWT" />&nbsp;
 </p>
 
-### Backend & Tools
-<p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png" alt="Node.js" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png" alt="Express.js" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png" alt="MongoDB" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png" alt="Firebase" />&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png" alt="JWT" />&nbsp;
-</p>
-
----
 
 ## 🌐 Connect with Me
 
@@ -56,7 +47,6 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
