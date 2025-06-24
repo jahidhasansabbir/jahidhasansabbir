@@ -37,13 +37,13 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://facebook.com/your-username">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="80"/>   
   </a>
   <a href="https://linkedin.com/in/your-username">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="80"/>
   </a>
   <a href="https://twitter.com/your-username">
-    <img src="https://cdn.simpleicons.org/x" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="80"/> 
   </a>
 </p>
 
