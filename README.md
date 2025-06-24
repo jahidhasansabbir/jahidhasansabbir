@@ -57,5 +57,5 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasansabbir&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=jahidhasansabbir&theme=vue-dark&hide_border=false) -->
-![](https://raw.githubusercontent.com/jahidhasansabbir/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jahidhasansabbir/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/jahidhasansabbir/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jahidhasansabbir/overview.svg#gh-light-mode-only)
