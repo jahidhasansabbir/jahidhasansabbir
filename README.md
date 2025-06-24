@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Jahid+Hasan+Sabbir;Frontend+Web+Developer;MERN+Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Explore+my+projects+and+tech+journey.;Building+with+React%2C+Node.js%2C+MongoDB." alt="Typing SVG" />
 </p>
 <h1 align="center">Hi, I'm Jahid Hasan Sabbir</h1>
 <h3 align="center">Frontend Web Developer</h3>
+___
 
 ## 👨‍💻 About Me
 
 I'm a student of Electrical and Electronic Engineering with a strong passion for technology and software development. I love building modern web applications using **React.js**, **Node.js**, and **Tailwind CSS**. I’m always eager to learn and improve through hands-on experience and real-world projects.
-_
+
 
 ## 🚀 What I’m Working On
 
