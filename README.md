@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./banner.png" alt="GitHub Banner" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 <h1 align="center">Hi, I'm Jahid Hasan Sabbir</h1>
