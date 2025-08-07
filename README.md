@@ -17,8 +17,7 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 ## 🚀 What I’m Working On
 
 - Building full-stack web apps using the **MERN stack**
-- I am exploring **Next.js**
-- Exploring tools like **TanStack Query**, **Axios**, and other React utilities
+- Exploring **Next.js** and other React utilities
 - Recently deployed: [**BuildMate**](https://build-matez.web.app/) – A role-based apartment management web application
 
 
