@@ -43,9 +43,6 @@ I'm a student of Electrical and Electronic Engineering with a strong passion for
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.facebook.com/jahid.hasan.sabbir01">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="36" alt="Facebook" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jahid-hasan-sabbir-035ab2290">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
